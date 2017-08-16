@@ -27,7 +27,7 @@ Thanks to the efforts of the open-source community, most of the information abou
 ### Software   
 It is very important to have the right software that works not just for the problem you are trying to solve but also you - the coder. Coding gives you the power to convert your thoughts and animated ideas from the whiteboards in maeeting rooms to actual output - a chart, a presentation, a machine learning model and so on. Coding is not difficult. Also, remember, it does not need a lot of time but a lot of patience.
 1. **Jupyter**: One of my favourite tools for coding - I am in love with this software. This software takes you away from the seemingly scary world of black screens and terminals to the beautiful world of notebooks where you can interactively code in your language of choice on a screen with cells which can be executed independently making prototyping really easy. And what's more - you can write text alongside our code seamlessly to create something called as 'notebook' - which is a really cool and easy way to share information with non-users.  
-Jupyter can be used to code in **_Ju_**lia, **_Pyt_**hon and **_R_**uby (hence then name Jupyter).
+Jupyter can be used to code in _Ju_lia, _Pyt_hon and _R_ (hence then name Jupyter).
 You can download Jupyter [here](https://www.continuum.io/downloads).  
   
 ---  
