@@ -33,5 +33,5 @@ You can download Jupyter [here](https://www.continuum.io/downloads).
 ---  
 
 ### Websites  
-1. Data.world: This is a cool website to find some interesting datasets. Check it out [here](https://data.world/).  
-2. Kaggle: A website for online machine learning competitions - contains some great datasets, knowledge and resources. Check it out [here](https://www.kaggle.com).
+1. **Data.world**: This is a cool website to find some interesting datasets. Check it out [here](https://data.world/).  
+2. **Kaggle**: A website for online machine learning competitions - contains some great datasets, knowledge and resources. Check it out [here](https://www.kaggle.com).
